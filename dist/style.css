@@ -10,7 +10,7 @@
 }
 #main_container {
   display: flex;
-  background-color: pink;
+  /* background-color: pink; */
   width: 412px;
   height: 892px;
 }
